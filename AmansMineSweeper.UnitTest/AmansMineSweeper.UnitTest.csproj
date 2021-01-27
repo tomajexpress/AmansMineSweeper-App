@@ -63,7 +63,6 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\feld4.txt" />
     <Content Include="Resources\feld3.txt" />
     <Content Include="Resources\feld2.txt" />
     <Content Include="Resources\feld1.txt" />
